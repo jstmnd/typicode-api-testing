@@ -3,6 +3,7 @@ name: API Testing in CI pipeline
 on:
   push:
     branches: [main]
+    branches: [test]
 
 jobs:
   build:
