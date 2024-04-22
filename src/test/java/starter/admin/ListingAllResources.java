@@ -1,6 +1,5 @@
 package starter.admin;
 
-import io.cucumber.java.en.Then;
 import net.serenitybdd.annotations.Step;
 import net.serenitybdd.rest.SerenityRest;
 
